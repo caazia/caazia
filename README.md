@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @caazia
+## 👋 Hi, I’m @caazia!
+
 - 🌱 I’m currently learning on JavaScript and HTML5...
 - 💻 You can see my projects here in my Github
 - 📫 How to reach me https://www.linkedin.com/in/cassia-carvalho/

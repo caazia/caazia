@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Cássia+Carvalho;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caazia&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=caazia&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caazia&theme=dracula&layout=compact&langs_count=8&card_width=350" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caazia&theme=dracula&layout=compact&langs_count=8&card_width=300" />
 </a>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caazia&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

@@ -22,12 +22,15 @@ if (you = "Need Developer") {
     inviteYou("See my portfolio");
 }
 ```
+<br>
+
 ##
 
 <div align="center">
   <img alt="gif gato e arvore de sakura" src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288">
 </div>
 
+  
 ##
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">

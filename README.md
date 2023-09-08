@@ -1,23 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Cássia+Carvalho;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=header"/>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=caazia&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caazia&theme=dracula&layout=compact&langs_count=8&card_width=300" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=85C7F7&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%8E%90" alt="Typing SVG"/></a>
+
+<p align="center"> I'm <strong>Cássia Carvalho</strong></br>
+Web Development Student</p>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caazia&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<img align="left" alt="girl and cat" height="270" src="https://i.pinimg.com/564x/ac/56/f4/ac56f45f82b64b44fa36ef3d35a5f99b.jpg">
+
+```JavaScript
+const WhoAmI = {
+    code: [HTML, CSS, JavaScript, ReactJs],
+    softSkills: [Communicative, TimeManagement and Teamwork],
+    loves: [books, cats, codes, games, coffee, k-pop and doramas]
+}
+
+if (you = "Need Developer") {
+    sendMeEmail("contato.cassia.carvalho@gmail.com");
+} else {
+    inviteYou("See my portfolio");
+}
+```
+##
+
 <div align="center">
-<!-- cat -->
+  <img alt="gif gato e arvore de sakura" src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288">
+</div>
+
+##
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=caazia&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caazia&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
+</a>
+</div>
+<!-- gif study-->
+
+##
+
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" width="350">
+  
+##
     
 <a href = "mailto:contato.cassia.carvalho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cassia-carvalh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -37,4 +64,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=footer"/>

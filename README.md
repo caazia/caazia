@@ -11,7 +11,7 @@ Web Development Student</p>
 
 ```JavaScript
 const WhoAmI = {
-    code: [HTML, CSS, JavaScript, ReactJs],
+    code: [JavaScript, CSS, ReactJs, C++],
     softSkills: [Communicative, TimeManagement and Teamwork],
     loves: [books, cats, codes, games, coffee, k-pop and doramas]
 }

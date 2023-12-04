@@ -1,19 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=85C7F7&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%8E%90" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%8E%81" alt="Typing SVG"/></a>
 
 <p align="center"> I'm <strong>Cássia Carvalho</strong></br>
 Web Development Student</p>
 </div>
 
-<img align="left" alt="girl and cat" height="270" src="https://i.pinimg.com/564x/ac/56/f4/ac56f45f82b64b44fa36ef3d35a5f99b.jpg">
+<img align="left" alt="girl and cat" height="270" src="https://i.pinimg.com/564x/76/27/93/762793408989a6d4265af23e44042da1.jpg">
 
 ```JavaScript
 const WhoAmI = {
     code: [JavaScript, CSS, ReactJs, C++],
     softSkills: [Communicative, TimeManagement and Teamwork],
     loves: [books, cats, codes, games, coffee, k-pop and doramas]
+    document.write("Merry Christmas 🎅");
 }
 
 if (you = "Need Developer") {
@@ -27,9 +28,8 @@ if (you = "Need Developer") {
 ##
 
 <div align="center">
-  <img alt="gif gato e arvore de sakura" src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288">
+  <img alt="gif natal garota com sino" src="https://i.pinimg.com/originals/63/28/8e/63288ec10cedbb9146627535d2711a7a.gif">
 </div>
-
   
 ##
 <div align="center">
@@ -40,19 +40,16 @@ if (you = "Need Developer") {
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caazia&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
 </a>
 </div>
-<!-- gif study-->
 
 ##
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/82/f1/cc/82f1ccb66980b92521b4ff8b970e1643.gif" width="350">
-  
-##
-    
+<div align="center"> 
 <a href = "mailto:contato.cassia.carvalho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cassia-carvalh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
+ 
+<div align="center">
+    
 ### Languages and Tools:
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -62,6 +59,11 @@ if (you = "Need Developer") {
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)&nbsp;
 
+</div>
+
+
+##
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
@@ -69,4 +71,12 @@ if (you = "Need Developer") {
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=120&section=footer"/>
+##
+
+<div align="center">
+  <img alt="gif natal" src="https://i.pinimg.com/originals/82/f1/cc/82f1ccb66980b92521b4ff8b970e1643.gif">
+</div>
+  
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>

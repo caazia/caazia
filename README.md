@@ -10,11 +10,11 @@ Web Development Student</p>
 <img align="left" alt="girl and cat" height="270" src="https://i.pinimg.com/564x/76/27/93/762793408989a6d4265af23e44042da1.jpg">
 
 ```JavaScript
+document.write("Merry Christmas 🎅");
 const WhoAmI = {
     code: [JavaScript, CSS, ReactJs, C++],
     softSkills: [Communicative, TimeManagement and Teamwork],
     loves: [books, cats, codes, games, coffee, k-pop and doramas]
-    document.write("Merry Christmas 🎅");
 }
 
 if (you = "Need Developer") {

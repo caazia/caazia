@@ -45,7 +45,7 @@ if (you = "Need Developer") {
 ##
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" width="350">
+<img src="https://i.pinimg.com/originals/82/f1/cc/82f1ccb66980b92521b4ff8b970e1643.gif" width="350">
   
 ##
     
@@ -61,7 +61,7 @@ if (you = "Need Developer") {
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)&nbsp;
-![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>

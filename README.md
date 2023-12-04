@@ -73,10 +73,5 @@ if (you = "Need Developer") {
 
 ##
 
-<div align="center">
-  <img alt="gif natal" src="https://i.pinimg.com/originals/82/f1/cc/82f1ccb66980b92521b4ff8b970e1643.gif">
-</div>
-  
-##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>

@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f17ea1&height=120&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%8E%81" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=ffc4d8&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%90%BE" alt="Typing SVG"/></a>
 
 <p align="center"> I'm <strong>Cássia Carvalho</strong></br>
 Web Development Student</p>
 </div>
 
-<img align="left" alt="girl and cat" height="270" src="https://i.pinimg.com/564x/76/27/93/762793408989a6d4265af23e44042da1.jpg">
+<img align="left" alt="cat on top of the computer" height="270" src="https://i.pinimg.com/564x/81/20/df/8120dfdd1f37fb5ceb62503ef8b58fba.jpg">
 
 ```JavaScript
-document.write("Merry Christmas 🎅");
+document.write("Hi!!! How are you? 😊");
 const WhoAmI = {
     code: [JavaScript, CSS, ReactJs, C++],
     softSkills: [Communicative, TimeManagement and Teamwork],
@@ -28,7 +28,7 @@ if (you = "Need Developer") {
 ##
 
 <div align="center">
-  <img alt="gif natal garota com sino" src="https://i.pinimg.com/originals/63/28/8e/63288ec10cedbb9146627535d2711a7a.gif">
+  <img alt="gif studying girl" src="https://i.pinimg.com/originals/48/db/d3/48dbd3dd282e90737625bda891e34f1b.gif">
 </div>
   
 ##
@@ -51,13 +51,15 @@ if (you = "Need Developer") {
 <div align="center">
     
 ### Languages and Tools:
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 </div>
 
@@ -74,4 +76,4 @@ if (you = "Need Developer") {
 ##
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f17ea1&height=120&section=footer"/>

@@ -12,7 +12,7 @@ Web Development Student</p>
 ```JavaScript
 document.write("Hi!!! How are you? 😊");
 const WhoAmI = {
-    code: [JavaScript, CSS, ReactJs, C++],
+    code: [JavaScript, CSS, ReactJs, C#],
     softSkills: [Communicative, TimeManagement and Teamwork],
     loves: [books, cats, codes, games, coffee, k-pop and doramas]
 }

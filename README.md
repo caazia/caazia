@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f17ea1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF8803&height=120&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=ffc4d8&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%90%BE" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=DF8803&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%90%BE" alt="Typing SVG"/></a>
 
 <p align="center"> I'm <strong>Cássia Carvalho</strong></br>
 Fullstack Developer at Avanade 🧡</p>
 </div>
 
-<img align="left" alt="cat on top of the computer" height="270" src="https://i.pinimg.com/564x/81/20/df/8120dfdd1f37fb5ceb62503ef8b58fba.jpg">
+<img align="left" alt="Kiki with a cup of coffee" height="270" src="https://i.pinimg.com/564x/54/93/24/54932479bdaf3fe93cf5a92598646386.jpg">
 
 ```JavaScript
 document.write("Hi!!! How are you? 😊");
 const WhoAmI = {
     code: [JavaScript, CSS, ReactJs, C#],
     softSkills: [Communicative, TimeManagement and Teamwork],
-    loves: [books, cats, codes, games, coffee, k-pop and doramas]
+    loves: [books, cats, codes, games, coffee, k-pop and Studio Ghibli]
 }
 
 if (you = "Need Developer") {
@@ -80,4 +80,4 @@ if (you = "Need Developer") {
 ##
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f17ea1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF8803&height=120&section=footer"/>

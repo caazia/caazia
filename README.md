@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=20&duration=4000&pause=1000&color=DF8803&center=true&vCenter=true&width=1100&height=25&lines=Welcome+to+my+profile!+%F0%9F%90%BE" alt="Typing SVG"/></a>
 
 <p align="center"> I'm <strong>Cássia Carvalho</strong></br>
-Fullstack Developer at Avanade 🧡</p>
+Jr. Analyst at Avanade 🧡</p>
 </div>
 
 <img align="left" alt="Kiki with a cup of coffee" height="270" src="https://i.pinimg.com/564x/54/93/24/54932479bdaf3fe93cf5a92598646386.jpg">
@@ -12,7 +12,7 @@ Fullstack Developer at Avanade 🧡</p>
 ```JavaScript
 document.write("Hi!!! How are you? 😊");
 const WhoAmI = {
-    code: [JavaScript, NextJs, ReactJs, .Net],
+    code: [NextJs, ReactJs, TypeScript, .Net],
     softSkills: [Communicative, TimeManagement and Teamwork],
     loves: [books, cats, codes, games, coffee, k-pop and Studio Ghibli]
 }
@@ -66,20 +66,6 @@ if (you = "Need Developer") {
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-
 </div>
-
-
-##
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caazia}/count.svg" /></p> 
-<br>
-</div>
-
-##
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF8803&height=120&section=footer"/>
